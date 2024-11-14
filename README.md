@@ -13,3 +13,6 @@ npm install
 cd /path/to/Gogolook_Assignment_QA_River_Lin
 npx cypress open
 ```
+
+## Demo
+https://youtu.be/kLdAqRzTXEQ
